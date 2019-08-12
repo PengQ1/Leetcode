@@ -1,0 +1,1 @@
+Create a new vector "result" to save the index, go through all member of the list and add any two numbers, when their sum equals to the target, record and return.
